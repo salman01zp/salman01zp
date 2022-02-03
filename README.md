@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/salmanpathan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   </a>&nbsp;&nbsp;
-  <a href="https://https://kresnasucandra.medium.com//">
+  <a href="https://www.linkedin.com/in/salmanpathan/">
    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   
