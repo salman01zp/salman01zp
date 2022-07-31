@@ -4,7 +4,7 @@
   Hi there 👋 I'm Salman 👨‍💻
 </h1>
 <h3 align='center'>
-  Aspiring <b>Substrate Blockchain Developer</b>.
+  <b> Rust Blockchain Developer</b>.
 </h3>
 
 <p align='center'>
